@@ -1,5 +1,5 @@
 {
-  "name": "k-model",
+  "name": "k-model-debug",
   "description": "Realtime model synchronization engine for Node.js",
   "homepage": "http://racerjs.com/",
   "repository": {
